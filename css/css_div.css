@@ -1,0 +1,10 @@
+.div_resultado {
+  border: 1px solid red; width: 100%;
+}
+
+.div_detalle_resultado{
+background: white;
+  color: black;
+  border: 1px solid green;
+  cursor:pointer;
+}
