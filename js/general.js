@@ -5,7 +5,7 @@ function busqueda_libros(){
 	if(books_name!=''){
 		$.ajax({
 		 type: 'POST',  
-		 url: 'eltawers.github.io/skyl_cdcopen/data/consulta_books.php',  
+		 url: 'data/consulta_books.php',  
 		 data: { books_name: books_name } 
 		 }).done(function( msg ) {  
 		  //console.log(msg); 
