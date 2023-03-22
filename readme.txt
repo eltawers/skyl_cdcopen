@@ -10,7 +10,7 @@ funcion busqueda_libros parsea el json y obtiene los resultados.
 para ver el PHPMYADMIN, usar lo siguiente:
 https://www.db4free.net/phpMyAdmin/index.php?route=/
 user = root123456
-pass = root
+pass = root1234
 
 en caso de que no funcione, va el script de la base de datos y las claves se deben configurar en data\conexion.php
 
